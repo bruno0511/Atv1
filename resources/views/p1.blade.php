@@ -10,6 +10,7 @@
         <option value="volvo">Volvo</option>
         <option value="fiat">Fiat</option>
         <option value="audi">Audi</option>
+        <option value="audi">Ferrari</option>
       </select>
       <button type="submit" class="btn btn-primary">Enviar</button>
     </form>
